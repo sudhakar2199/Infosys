@@ -1,2 +1,6 @@
 I am preparing for Softility
+<<<<<<< Updated upstream
 Om Shree Guru Dathatreya Swami
+=======
+God please help me in getting released early
+>>>>>>> Stashed changes
